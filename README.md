@@ -32,6 +32,8 @@ This repository contains samples demonstrating **how to use [OpenIddict](https:/
   - **[Angular and Blazor samples](https://github.com/damienbod/AspNetCoreOpeniddict)** by [Damien Bowden](https://github.com/damienbod)
 
   - **[Experimental MAUI (WinUI-only) sample](https://github.com/kevinchalet/openiddict-core/tree/maui_winui_sample/sandbox/OpenIddict.Sandbox.Maui.Client)** by [Kévin Chalet](https://github.com/kevinchalet)
+  
+  - **[OIDC Session Management sample](https://github.com/GREsau/openiddict-session-management-sample)** by [Graham Esau](https://github.com/GREsau)
 
 ## Certification
 
